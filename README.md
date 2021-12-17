@@ -1,2 +1,2 @@
-# originTUT
-origin tutorial for lqy1998
+# graphTUT
+how to get nice graphs for papers
